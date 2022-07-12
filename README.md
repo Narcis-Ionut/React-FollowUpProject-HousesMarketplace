@@ -1,4 +1,4 @@
-React application for a Housemarketplace it is a work in progress
+React application for a Housemarketplace and it is a work in progress
 
 ![Screenshot 2022-07-12 112327](https://user-images.githubusercontent.com/92092199/178469572-a930ac93-766f-4bbe-b399-883f667e3a4a.png)
 
